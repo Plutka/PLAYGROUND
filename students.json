@@ -1,0 +1,15 @@
+[
+  {
+    "new_name": "Ali",
+    "cars": [
+      "bwm",
+      "tesla"
+    ]
+  },
+  {
+    "new_name": "Maria",
+    "cars": [
+      "audi"
+    ]
+  }
+]
